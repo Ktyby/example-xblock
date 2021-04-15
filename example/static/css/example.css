@@ -1,0 +1,9 @@
+/* CSS for ExampleXBlock */
+
+.example_block .count {
+    font-weight: bold;
+}
+
+.example_block p {
+    cursor: pointer;
+}

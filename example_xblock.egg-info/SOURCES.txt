@@ -1,0 +1,13 @@
+setup.py
+example/__init__.py
+example/example.py
+example/static/README.txt
+example/static/css/example.css
+example/static/html/example.html
+example/static/js/src/example.js
+example_xblock.egg-info/PKG-INFO
+example_xblock.egg-info/SOURCES.txt
+example_xblock.egg-info/dependency_links.txt
+example_xblock.egg-info/entry_points.txt
+example_xblock.egg-info/requires.txt
+example_xblock.egg-info/top_level.txt
